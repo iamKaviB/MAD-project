@@ -3,6 +3,7 @@
     <color name="fieldBorderColor">#FF6347</color>
     <color name="background">#FFFFFF</color>
     <color name="mainColor">#FF884D</color>
-    <color name="edittxt">#FFDAB9</color>
+    <color name="fieldSolid">#FFDAB9</color>
     <color name="iconcolor">#000000</color>
+
 </resources>

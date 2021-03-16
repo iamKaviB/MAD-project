@@ -7,7 +7,7 @@
 
         <shape
             android:shape="rectangle">
-               <solid android:color="@color/edittxt"/>
+               <solid android:color="@color/fieldSolid"/>
             <corner android:radius="50dp"/>
             <stroke android:color="@color/fieldBorderColor"
                 android:width="2dp"/>
@@ -23,10 +23,10 @@
 
         <shape
             android:shape="rectangle">
-            <solid android:color="@color/edittxt"/>
-            <corner android:radius="20dp"/>
+            <solid android:color="@color/fieldSolid"/>
+            <corner android:radius="50dp"/>
             <stroke android:color="@color/fieldBorderColor"
-                android:width="1dp"/>
+                android:width="2dp"/>
 
 
         </shape>
